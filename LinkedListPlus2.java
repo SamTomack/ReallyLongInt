@@ -1,6 +1,3 @@
-package Assig3;
-//CS 0445 Spring 2022
-//Author - Samuel Tomack 
 //This provides a few operations for shifting data in linked lists.  
 //All operations are done recursively. 
 
