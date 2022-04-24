@@ -1,6 +1,3 @@
-package Assig3;
-//CS 0445 Spring 2022
-//Author - Samuel Tomack 
 //This describes non-negative integers as linked lists and provides basic arithmetic operations for them. 
 //All operations are done recursively.
 
